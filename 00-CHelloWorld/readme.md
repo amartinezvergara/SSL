@@ -1,3 +1,3 @@
 -Compilador: gcc 
--Versión del compilador: 15.2.0 (Rev 13)
--Versión de C: C23
+*Versión del compilador: 15.2.0
++Versión de C: C23
